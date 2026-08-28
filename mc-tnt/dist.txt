@@ -1,6 +1,7 @@
-MC铁砧
+MCTNT
 2
-噔！
+MCTNT
 游戏
 Mojang
 150,100
+1
